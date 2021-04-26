@@ -54,7 +54,7 @@ if __name__ == "__main__":
     }
 
     # setting up connection costs
-    lst=[]
+    
     graph.herist={'A':3,'B':4,'C':6,'D':5,'E':3,'F':2,'G':7,'H':8,'I':6,'J':7,'K':9}
     print(graph.get_h("A"))
 
